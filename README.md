@@ -1,2 +1,3 @@
 # HelloWorld
-just another repository 
+Hello,
+I like c# and game development.
